@@ -1,5 +1,6 @@
 - Hi, I’m Ahmed Ali.
-- I'm an undergradute student, studying at University of Central Punjab.
+- I'm currently learning Web Development.
+- My interests are Gaming, Music, Coding, Animation.
 
 <!---
 ahmedinnit/ahmedinnit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
