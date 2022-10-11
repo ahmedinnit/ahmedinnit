@@ -1,6 +1,7 @@
 - Hi, I’m Ahmed Ali.
 - I'm currently learning Web Development.
 - My interests are Gaming, Music, Coding, Animation.
+- Ooga Booga.
 
 <!---
 ahmedinnit/ahmedinnit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
