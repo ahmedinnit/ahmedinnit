@@ -1,5 +1,6 @@
 - Hi, I’m Ahmed Ali.
-- Ooga Booga.
+- I am a final year Computer Science student.
+- Pursuing Data Science (not only) as a career path.
 
 <!---
 ahmedinnit/ahmedinnit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
