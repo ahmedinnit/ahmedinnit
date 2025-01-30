@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I am a full stack developer. I have strong programming fundamentals and have contributed in several projects using backend and frontend technologies. I have worked on multiple Enterprise-Level Projects in .NET Framework and React.<br><br>I am currently learning about backend development, system designs, database designs, data engineering. I am looking forward to stay up to date with newer technologies and provide value to organizations (and someday my own).</p>
+<p align="left">I am a Software Engineer with strong knowledge and understanding of software development principles and practices, and I have contributed to several projects using various technology frameworks and tools. Currently, I work as a Full Stack Developer specializing in the .NET Framework & React.<br><br>In my free time, I learn more about backend development, software design principles, database architecture, optimization, and data engineering. I am looking forward to staying up to date with emerging trends in technology and delivering valuable expertise to bigger organizations (and someday my own venture).</p>
 
 ###
 
