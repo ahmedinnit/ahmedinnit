@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Engineer who enjoys building resilient, data-intensive applications and APIs. I thrive when taking loose requirements and turning them into systems that are fast, secure, and easy to maintain.<br><br>My focus is always on the fundamentals: solid software design principles, optimizing performance (especially in databases), and disciplined automation. Outside of work, I'm always digging into new architectural patterns and ways to make engineering teams more effective.</p>
+<p align="left">I'm a Software Engineer who enjoys building resilient, data-intensive applications and APIs. I thrive when taking loose requirements and turning them into systems that are fast, secure, and easy to maintain.<br><br>My focus is always on the fundamentals: solid software design principles, optimizing performance (especially in databases), and disciplined automation. Outside of work, I'm always digging into new architectural patterns and ways to make engineering teams more effective.</p>
 
 ###
 
