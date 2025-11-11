@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I am a Software Engineer with strong knowledge and understanding of software development principles and practices, and I have contributed to several projects using various technology frameworks and tools. Currently, I work as a Full Stack Developer specializing in the .NET Framework & React.<br><br>In my free time, I learn more about backend development, software design principles, database architecture, optimization, and data engineering. I am looking forward to staying up to date with emerging trends in technology and delivering valuable expertise to bigger organizations (and someday my own venture).</p>
+<p align="left">I'm a Full Stack Engineer who enjoys building resilient, data-intensive applications and APIs. I thrive when taking loose requirements and turning them into systems that are fast, secure, and easy to maintain.<br><br>My focus is always on the fundamentals: solid software design principles, optimizing performance (especially in databases), and disciplined automation. Outside of work, I'm always digging into new architectural patterns and ways to make engineering teams more effective.</p>
 
 ###
 
