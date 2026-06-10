@@ -6,6 +6,9 @@
   <a href="https://www.youtube.com/@AhmedAli-ow2vg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  <a href="https://www.instagram.com/thedemha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8a3ab9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
 <h3 align="left">About Me</h3>
@@ -33,24 +36,24 @@ I am a Software Engineer focused on building resilient, data-intensive systems a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/canva/default.svg" height="40" alt="canva logo"  />
 </div>
 
 #### Backend Frameworks & Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="springboot logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/spring-boot/default.svg" height="40" alt="springboot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/csharp/default.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dotnetcore/default.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" alt="python logo"  />
 </div>
 
 #### Databases, Cloud & Payments
@@ -61,25 +64,29 @@ I am a Software Engineer focused on building resilient, data-intensive systems a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="40" alt="docker logo" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/stripe/default.svg" height="40" alt="stripe logo" />
 </div>
 
 #### AI Engineering & Local LLMs
 <div align="left">
-  <img src="https://unpkg.com/simple-icons@v11/icons/anthropic.svg" height="40" style="filter: brightness(0) invert(1);" alt="claude logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" alt="claude logo" />
   <img width="12" />
-  <img src="https://unpkg.com/simple-icons@v11/icons/openai.svg" height="40" style="filter: brightness(0) invert(1);" alt="chatgpt logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" alt="chatgpt logo" />
   <img width="12" />
-  <img src="https://unpkg.com/simple-icons@v11/icons/googlegemini.svg" height="40" style="filter: brightness(0) invert(1);" alt="gemini logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gemini/default.svg" height="40" alt="gemini logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/ollama/default.svg" height="40" alt="ollama logo" />
 </div>
 
 #### Productivity & Project Management
 <div align="left">
-  <img src="https://unpkg.com/simple-icons@v11/icons/clickup.svg" height="40" style="filter: brightness(0) invert(1);" alt="clickup logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/clickup/default.svg" height="40" alt="clickup logo" />
   <img width="12" />
-  <img src="https://unpkg.com/simple-icons@v11/icons/asana.svg" height="40" style="filter: brightness(0) invert(1);" alt="asana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/asana/default.svg" height="40" alt="asana logo" />
 </div>
 
 ---
@@ -103,4 +110,3 @@ I am a Software Engineer focused on building resilient, data-intensive systems a
 ```
 ---
 > "What we know is a drop. What we don't know is an ocean." — Dark
-
